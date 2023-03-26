@@ -1,7 +1,7 @@
 # Calculadora_Idade
 ####Nesse projeto, o programa faz cáculo da idade apartir da data atual ou inicial com a data de nascimento.
 ####
-# tela_login_python
+# Tela da Calculadora
 ####
 #### O designer gráfico foi criado com o módulo tkinter.
 ####
